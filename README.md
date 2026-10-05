@@ -4,7 +4,7 @@ A clean, modern, and practical university software project for gym and fitness c
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Dashboard**:
   - 4 key statistic cards (Total Members, Active Members, Trainers, Upcoming Classes)
@@ -22,7 +22,7 @@ A clean, modern, and practical university software project for gym and fitness c
 
 ---
 
-## 🛠️ Tech Stack & UI Principles
+## Tech Stack & UI Principles
 
 - **Framework**: Next.js 15 (App Router)
 - **Language**: TypeScript
@@ -75,7 +75,7 @@ src/
 
 ---
 
-## 🏃 Quick Start
+##  Quick Start
 
 ### 1. Install Dependencies
 ```bash
